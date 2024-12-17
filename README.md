@@ -12,5 +12,5 @@ My names Paul Tokhtuev im a student at Skyline High with projected graduation of
 * https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Projectile.pde
 ![Example](https://github.com/user-attachments/assets/8130b81b-2845-40ff-9e15-cf82af3bc646)
 ### Shape Game
-a simply demo of a game
-https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/ShapeGame/ShapeGame.pde
+A simple demo. you move to collect the object and it gets faster and faster. you try to get the highest score you can.  
+* https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/ShapeGame/ShapeGame.pde
