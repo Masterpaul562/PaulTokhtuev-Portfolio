@@ -7,7 +7,7 @@ My names Paul Tokhtuev im a student at Skyline High with projected graduation of
 ### Goblin Survivor 
 * A reverse bullet hell that is similair to the game Vampire Survivor. You fight enemys to collect coins to buy weapons and kill more enemies. 
 * https://github.com/Masterpaul562/gamedevteam3
-* I coded all of the enemies and proctjiles. 
+* I coded all of the enemies and projectile. 
 * https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Enemy.pde
 * https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Projectile.pde
 ![Example](https://github.com/user-attachments/assets/8130b81b-2845-40ff-9e15-cf82af3bc646)
