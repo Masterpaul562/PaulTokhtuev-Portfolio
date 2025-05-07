@@ -9,7 +9,7 @@ My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduat
 An unfinished demo for my game dev 1 class. The premise was to create something like Vampire Survivor. We used Processing to create it. My job on the team was coding, so I created the enemy and projectile logic
 
   
- [Game](https://github.com/Masterpaul562/gamedevteam3)
+ [Game Repo](https://github.com/Masterpaul562/gamedevteam3)
  
   
 [Enemy](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Enemy.pde)
