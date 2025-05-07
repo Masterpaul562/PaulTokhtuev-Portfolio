@@ -32,7 +32,7 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 
   <p><a href="https://github.com/Masterpaul562/Momentum-Break">Game</a></p>
 
-  ![GamePlay1](https://github.com/user-attachments/assets/c096fcbb-47b7-4ff1-bddf-ae74a32f7c22)
+ <p><img src="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Images/GamePlay1.png?raw=true" alt="Example"></p>
 
 
 </details>
