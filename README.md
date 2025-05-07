@@ -10,13 +10,13 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 
   <br>
   
-* [Game Repo](https://github.com/Masterpaul562/gamedevteam3)
+  * [Game Repo](https://github.com/Masterpaul562/gamedevteam3)
  
   
-* [Enemy](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Enemy.pde)
+  * [Enemy](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Enemy.pde)
 
   
-* [Projectile](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Projectile.pde)
+  * [Projectile](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Projectile.pde)
   
 ![Example](https://github.com/user-attachments/assets/8130b81b-2845-40ff-9e15-cf82af3bc646)
 </details>
