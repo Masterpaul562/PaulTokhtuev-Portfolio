@@ -6,7 +6,7 @@ My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduat
 ## Some of my game dev projects
 <details> 
   <summary>Goblin Survivor</summary>
-An unfinished demo for my game dev 1 class. The premise was to create something like Vampire Survivor. We used Processing to create it. My job on the team was coding, so I created the enemy and projectile logic
+An unfinished demo for my game dev 1 class. The premise was to create something like Vampire Survivor. The gameplay is that different enemies shoot at or chase you, and you have to shoot them back while collecting coins to upgrade your weapons.  We used Processing to create it. My job on the team was coding, so I created the enemy and projectile logic.
 
   
  [Game Repo](https://github.com/Masterpaul562/gamedevteam3)
@@ -21,7 +21,9 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 
 <details> 
   <summary>Momentum-Break</summary>
+  A short game made in Unity. I'm currently working on it, so it is unfinished. We went with a beat 'em up style to the game, so its focus is on comboing the enemies and simple progressing forward through a simple level.  
   
+  [Game Repo](https://github.com/Masterpaul562/Momentum-Break)
 
 </details>
   
