@@ -25,6 +25,9 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
   
   [Game Repo](https://github.com/Masterpaul562/Momentum-Break)
 
+  ![GamePlay1](https://github.com/user-attachments/assets/c096fcbb-47b7-4ff1-bddf-ae74a32f7c22)
+
+
 </details>
   
   ## Other Projects
