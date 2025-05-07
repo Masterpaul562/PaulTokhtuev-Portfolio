@@ -33,11 +33,11 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 
 </details>
 
-  <br>
-  
-  ## Other Projects
 
-  <br>
+  
+## Other Projects
+
+
   
 <details> 
   
