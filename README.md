@@ -8,15 +8,11 @@ My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduat
   <summary>Goblin Survivor</summary>
 An unfinished demo for my game dev 1 class. The premise was to create something like Vampire Survivor. The gameplay is that different enemies shoot at or chase you, and you have to shoot them back while collecting coins to upgrade your weapons.  We used Processing to create it. My job on the team was coding, so I created the enemy and projectile logic.
 
-  <br>
-  
-  * [Game Repo](https://github.com/Masterpaul562/gamedevteam3)
- 
-  
-  * [Enemy](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Enemy.pde)
+[Game Repo](https://github.com/Masterpaul562/gamedevteam3)
 
-  
-  * [Projectile](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Projectile.pde)
+[Enemy](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Enemy.pde)
+ 
+[Projectile](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Projectile.pde)
   
 ![Example](https://github.com/user-attachments/assets/8130b81b-2845-40ff-9e15-cf82af3bc646)
 </details>
