@@ -16,11 +16,11 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
   
 <p><a href="https://github.com/Masterpaul562/gamedevteam3">Game</a></p>
 
-- [Enemy](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Enemy.pde)
- 
-- [Projectile](https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Projectile.pde)
-  
-![Example](https://github.com/user-attachments/assets/8130b81b-2845-40ff-9e15-cf82af3bc646)
+<p><a href="https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Enemy.pde">Enemy Code</a></p>
+
+<p><a href="https://github.com/Masterpaul562/gamedevteam3/blob/main/src/GoblinSurvivor/Projectile.pde">Projectile Code</a></p>
+
+<p><img src="https://github.com/user-attachments/assets/8130b81b-2845-40ff-9e15-cf82af3bc646" alt="Example"></p>
 
 </details>
 
@@ -29,8 +29,8 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
   <summary>Momentum-Break</summary>
   A short game made in Unity. I'm currently working on it, so it is unfinished. We went with a beat 'em up style to the game, so its focus is on comboing the enemies and simple progressing forward through a simple level.  
   <br>
-  
-  * [Game Repo](https://github.com/Masterpaul562/Momentum-Break)
+
+  <p><a href="https://github.com/Masterpaul562/Momentum-Break">Game</a></p>
 
   ![GamePlay1](https://github.com/user-attachments/assets/c096fcbb-47b7-4ff1-bddf-ae74a32f7c22)
 
@@ -46,14 +46,12 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
   <summary>Video Production</summary>
   
 Projects I made for my Video Production class. I work with a team to gather footage and did all the editing in the videos below. I learned the basics of Premiere Pro and how to import and export the files needed to make videos. 
+ 
+<p><a href="https://drive.google.com/file/d/1uQE4hhBP7PsaYfUbe0ks8hiXNjcjFIl6/view?usp=sharing">Watch Spotlight</a></p>
+ A video that is supposed to spotlight the stage crew that is here at Skyline. 
 
-<br>
-
-  A video that is supposed to spotlight the stage crew that is here at Skyline. 
-  
-* [Watch](https://drive.google.com/file/d/1uQE4hhBP7PsaYfUbe0ks8hiXNjcjFIl6/view?usp=sharing)
+<p><a href="https://drive.google.com/file/d/1FS4eVfCzRmqkWVNlYJe1lpM0wAxW9A1f/view?usp=sharing">Watch Outro</a></p>
 
 A short outro piece that was planned to play at the end of video announcements. Shows who did what to produce the announcements.   
 
-* [Watch](https://drive.google.com/file/d/1FS4eVfCzRmqkWVNlYJe1lpM0wAxW9A1f/view?usp=sharing)
 </details>
