@@ -27,7 +27,7 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 <br>
 <details> 
   <summary>Momentum-Break</summary>
-  A short game made in Unity. I'm currently working on it, so it is unfinished. We went with a beat 'em up style to the game, so its focus is on comboing the enemies and simple progressing forward through a simple level.  
+  A short game made in Unity. I'm currently working on it, so it is unfinished. We went with a beat 'em up style to the game, so its focus is on comboing the enemies and simply progressing forward through a simple level.  
   <br>
 
   <p><a href="https://github.com/Masterpaul562/Momentum-Break">Game</a></p>
