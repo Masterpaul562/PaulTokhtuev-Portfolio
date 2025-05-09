@@ -48,10 +48,11 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 Projects I made for my Video Production class. I work with a team to gather footage and did all the editing in the videos below. I learned the basics of Premiere Pro and how to import and export the files needed to make videos. 
  
 <p><a href="https://drive.google.com/file/d/1uQE4hhBP7PsaYfUbe0ks8hiXNjcjFIl6/view?usp=sharing">Watch Spotlight</a></p>
- A video that is supposed to spotlight the stage crew that is here at Skyline. 
+
+ A video that is supposed to spotlight the stage crew that is here at Skyline. This gives a look into how the stage crew prepares for performances, what they do at performances, and how they clean up after the curtain is drawn. 
 
 <p><a href="https://drive.google.com/file/d/1FS4eVfCzRmqkWVNlYJe1lpM0wAxW9A1f/view?usp=sharing">Watch Outro</a></p>
 
-A short outro piece that was planned to play at the end of video announcements. Shows who did what to produce the announcements.   
+A short outro piece that was planned to play at the end of video announcements. Shows who did what to produce the announcements. Sadly, we had no use for it as video announcements made in the studio were never done, as the studio was unfinished at the time.   
 
 </details>
