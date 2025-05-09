@@ -12,7 +12,7 @@ My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduat
 
 <details> 
   <summary>Goblin Survivor</summary>
-An unfinished demo for my game dev 1 class. The premise was to create something like Vampire Survivor. The gameplay is that different enemies shoot at or chase you, and you have to shoot them back while collecting coins to upgrade your weapons.  We used Processing to create it. My job on the team was coding, so I created the enemy and projectile logic.
+An unfinished demo for my game dev 1 class. The premise was to create something like Vampire Survivor. The gameplay is that different enemies shoot at or chase you, and you have to shoot them back while collecting coins from slain enemies to upgrade your weapons.  We used Processing to create it. My job on the team was coding, so I created the enemy and projectile logic.
   
 <p><a href="https://github.com/Masterpaul562/gamedevteam3">Game</a></p>
 
