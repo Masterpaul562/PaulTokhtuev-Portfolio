@@ -36,6 +36,16 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 
 
 </details>
+<details>
+
+<summary>SpaceGame</summary>
+
+A simple game made in a game devolopment class. It is similar to Galaxian. You simple shot lazers to destroy rocks. 
+
+
+
+  
+</details>
 
 ## Other Projects
   
@@ -49,10 +59,10 @@ Projects I made for my Video Production class. I work with a team to gather foot
  
 <p><a href="https://drive.google.com/file/d/1uQE4hhBP7PsaYfUbe0ks8hiXNjcjFIl6/view?usp=sharing">Watch Spotlight</a></p>
 
- A video that is supposed to spotlight the stage crew that is here at Skyline. This gives a look into how the stage crew prepares for performances, what they do at performances, and how they clean up after the curtain is drawn. 
+ A video that is supposed to spotlight the stage crew that at Skyline. This gives a look into how the stage crew prepares for performances, what they do at performances, and how they clean up after the curtain is drawn. 
 
 <p><a href="https://drive.google.com/file/d/1FS4eVfCzRmqkWVNlYJe1lpM0wAxW9A1f/view?usp=sharing">Watch Outro</a></p>
 
-A short outro piece that was planned to play at the end of video announcements. Shows who did what to produce the announcements. Sadly, we had no use for it as video announcements made in the studio were never done, as the studio was unfinished at the time.   
+A short outro piece that was planned to play at the end of video announcements. Shows who did what to produce the announcements.   
 
 </details>
