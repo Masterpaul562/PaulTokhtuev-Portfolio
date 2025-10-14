@@ -41,7 +41,7 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 <summary>SpaceGame</summary>
 
 A simple game made in a game devolopment class. It is similar to Galaxian. You simple shot lazers to destroy rocks. 
-
+<p><img src="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Images/ScreenShotOfSpaceGame.png?raw=true"></p>
 
 
   
