@@ -44,7 +44,7 @@ A simple game made in a game devolopment class. It is similar to Galaxian. You s
 <p><img src="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Images/ScreenShotOfSpaceGame.png?raw=true"></p>
 
  <p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/raw/refs/heads/main/src/SpaceGame/macos-aarch64.zip">MacOsDownload</a></p>
-  <p><a href="">WindowsOsDownload</a></p>
+  <p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/raw/refs/heads/main/src/SpaceGame/windows-amd64.zip">WindowsOsDownload</a></p>
 
   
 </details>
