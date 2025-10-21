@@ -40,11 +40,15 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 
 <summary>SpaceGame</summary>
 10/14/2025
+
 A simple game made in a game devolopment class. It is similar to Galaxian. You simple shot lazers to destroy rocks before they pass you or hit you. 
 <p><img src="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Images/ScreenShotOfSpaceGame.png?raw=true"></p>
 
- <p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/raw/refs/heads/main/src/SpaceGame/macos-aarch64.zip">MacOsDownload</a></p>
-  <p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/raw/refs/heads/main/src/SpaceGame/windows-amd64.zip">WindowsOsDownload</a></p>
+ <p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/raw/refs/heads/main/src/SpaceGame/macos-aarch64.zip">MacOs Download</a></p>
+  <p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/raw/refs/heads/main/src/SpaceGame/windows-amd64.zip">WindowsOs Download</a></p>
+
+<p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/tree/main/src/SpaceGame">Source Code</a></p>
+  
 
   
 </details>
