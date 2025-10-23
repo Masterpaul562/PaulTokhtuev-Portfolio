@@ -27,7 +27,7 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 <br>
 <details> 
   <summary>Momentum-Break</summary>
-  An unfinished game made in Unity. We went with a beat 'em up style to the game, so its focus is on comboing the enemies and progressing forward through a simple level. 
+  An unfinished game made in Unity. We went with a beat 'em up style to the game, so its focus is on comboing the enemies and progressing forward through a simple level. I did all of the code for this project. Even though I didn't finish the game I learnt alot form it. I gain experience using Unity, Unity scripting API, and the Unity animator. 
   <br>
 
   <p><a href="https://github.com/Masterpaul562/Momentum-Break">Game</a></p>
@@ -41,7 +41,7 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 <summary>SpaceGame</summary>
 10/14/2025
 
-A simple game made in a game devolopment class. It is similar to Galaxian. You simple shot lazers to destroy rocks before they pass you or hit you. 
+A simple game made in a game devolopment class. It is similar to Galaxian and other early space themed games. You simple shot lazers to destroy rocks before they pass you or hit you. Hiting rocks increase the score and there are power-ups that fall down from the top of the screen. This adds insentive to play well as the power-up will disappear on hit.  We used object based programing, so we mostly used array lists to control the functionality of the game. Everything in the game, rocks, lazers, the spaceship, power-ups, and stars, are all objects that we created and put in array lists if they were collections to control. 
 <p><img src="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Images/ScreenShotOfSpaceGame.png?raw=true"></p>
 
  <p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/raw/refs/heads/main/src/SpaceGame/macos-aarch64.zip">MacOs Download</a></p>
