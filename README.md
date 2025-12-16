@@ -24,7 +24,7 @@ An unfinished demo for my game dev 1 class. The premise was to create something 
 
 </details>
 
-<br>
+
 <details> 
   <summary>Momentum-Break</summary>
   An unfinished game made in Unity. We went with a beat 'em up style to the game, so its focus is on comboing the enemies and progressing forward through a simple level. I did all of the code for this project. Even though I didn't finish the game I learnt alot form it. I gain experience using Unity, Unity scripting API, and the Unity animator. 
