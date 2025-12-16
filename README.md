@@ -7,6 +7,7 @@ My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduat
 ## My certifications 
 
 [Game Devolopment Fundementals Certification](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Doc/Paul%20Tokhtuev_Game%20Development%20Fundamentals_12132024.pdf)
+[Culinary 1 Certification](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Doc/Paul%20Tokhtuev_Culinary%201_12162025.pdf)
 
 ## Some of my game dev projects
 
