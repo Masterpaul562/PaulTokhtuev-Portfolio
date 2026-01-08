@@ -2,7 +2,7 @@
 
 My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduation of 2028-2029
 
-### [Contact me](mailto:masterpaul562@gmail.com)
+### [Contact me](mailto:Paul.Tokhtuev@gmail.com)
 
 ## My certifications 
 
