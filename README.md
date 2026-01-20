@@ -60,6 +60,7 @@ A simple game made in a game devolopment class. It is similar to Galaxian and ot
 The player plants crops in a grid in turns. this increase score when they are harvested. Ends when after a certain amount of turns it checks score and if score is not high enough. 
 
 <p><img src ="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Images/CropGameDiagram.png?raw=true"></p>
+<p><img src="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Images/CropGameSS.png?raw=true" alt="Example"></p>
 
 </details>
 
