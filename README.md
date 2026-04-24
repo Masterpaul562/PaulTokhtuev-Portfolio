@@ -4,13 +4,13 @@
 
 My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduation of 2028-2029
 
-<h3> <p><a href="mailto:Paul.Tokhtuev@gmail.com">Contact me</a></p> <h3
+<h3> <p><a href="mailto:Paul.Tokhtuev@gmail.com">Contact me</a></p> </h3>
 
-## My certifications 
+<h4> My certifications </h4>
 
-[Game Devolopment Fundementals Certification](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Doc/Paul%20Tokhtuev_Game%20Development%20Fundamentals_12132024.pdf)
+<p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Doc/Paul%20Tokhtuev_Game%20Development%20Fundamentals_12132024.pdf">Game Devolopment Fundementals Certification</a></p>
 <br>
-[Culinary 1 Certification](https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Doc/Paul%20Tokhtuev_Culinary%201_12162025.pdf)
+<p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Doc/Paul%20Tokhtuev_Culinary%201_12162025.pdf">Culinary 1 Certification</a></p>
 
 ## Some of my game dev projects
 
