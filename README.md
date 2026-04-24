@@ -1,4 +1,10 @@
+<!DOCTYPE html>
 <html lang="en">
+<style>
+  body{
+  background-color: rgb(138, 123, 150);
+    }
+</style>
 
 <h1> Paul Tokhtuev| Portfolio</h1>
 
