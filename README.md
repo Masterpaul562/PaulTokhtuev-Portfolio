@@ -1,10 +1,10 @@
 <html lang="en">
 
-# Paul Tokhtuev|Portfolio
+<h1> Paul Tokhtuev| Portfolio</h1>
 
 My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduation of 2028-2029
 
-### [Contact me](mailto:Paul.Tokhtuev@gmail.com)
+<h3> <p><a href="mailto:Paul.Tokhtuev@gmail.com">Contact me</a></p> <h3
 
 ## My certifications 
 
