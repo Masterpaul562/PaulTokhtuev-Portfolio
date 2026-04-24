@@ -74,13 +74,15 @@ A simple game made in a game devolopment class. It is similar to Galaxian and ot
   
 Projects I made for my Video Production class. I work with a team to gather footage and did all the editing in the videos below. I learned the basics of Premiere Pro and how to import and export the files needed to make videos. 
 
-#### Stage Crew Spotlight
+<h4> Stage Crew Spotlight </h4>
  
 <p><a href="https://drive.google.com/file/d/1uQE4hhBP7PsaYfUbe0ks8hiXNjcjFIl6/view?usp=sharing">Watch Spotlight</a></p>
 
  A video that is supposed to spotlight the stage crew that is at Skyline. This gives a look into how the stage crew prepares for performances, what they do at performances, and how they clean up after the curtain is drawn. I learned basic editing in premier and specifically learned how to add music and edit it to create desired effect. 
- 
-#### Outro 
+
+
+<h4>Outro </h4> 
+
 
 <p><a href="https://drive.google.com/file/d/1FS4eVfCzRmqkWVNlYJe1lpM0wAxW9A1f/view?usp=sharing">Watch Outro</a></p>
 
