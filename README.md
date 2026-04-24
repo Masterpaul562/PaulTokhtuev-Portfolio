@@ -6,13 +6,13 @@ My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduat
 
 <h3> <p><a href="mailto:Paul.Tokhtuev@gmail.com">Contact me</a></p> </h3>
 
-<h4> My certifications </h4>
+<h3> My certifications </h3>
 
 <p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Doc/Paul%20Tokhtuev_Game%20Development%20Fundamentals_12132024.pdf">Game Devolopment Fundementals Certification</a></p>
-<br>
+
 <p><a href="https://github.com/Masterpaul562/PaulTokhtuev-Portfolio/blob/main/Doc/Paul%20Tokhtuev_Culinary%201_12162025.pdf">Culinary 1 Certification</a></p>
 
-## Some of my game dev projects
+<h3>Some of my game dev projects</h3> 
 
 <details> 
   <summary>Momentum-Break</summary>
@@ -66,7 +66,7 @@ A simple game made in a game devolopment class. It is similar to Galaxian and ot
 </details>
 
 
-## Other Projects
+<h2> Other Projects</h2> 
   
 <details> 
   
