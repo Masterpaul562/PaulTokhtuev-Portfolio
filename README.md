@@ -1,3 +1,5 @@
+<html lang="en">
+
 # Paul Tokhtuev|Portfolio
 
 My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduation of 2028-2029
@@ -89,3 +91,5 @@ Projects I made for my Video Production class. I work with a team to gather foot
 A short outro piece that was planned to play at the end of video announcements. Shows who did what to produce the announcements. Learn basics of Premier like adding text to videos and displaying them correctly.    
 
 </details>
+
+</html>
