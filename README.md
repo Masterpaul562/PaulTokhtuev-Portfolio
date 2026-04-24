@@ -13,17 +13,6 @@ My name is Paul Tokhtuev. I'm a student at Skyline High with a projected graduat
 ## Some of my game dev projects
 
 <details> 
-  <summary>Goblin Survivor</summary>
-An unfinished demo for my game dev 1 class created with a team. Our idea was to create something akin to Vampire Survivor. The gameplay is that different enemies shoot at or chase you, and you have to shoot them back while collecting coins from slain enemies to upgrade your weapons.  We used Processing to create it. My job on the team was coding, I created the enemy and projectile logic but also work on general functionality of the game. I mainly learned Object-oriented programming and how it can be used to create games. 
-  
-<p><a href="https://github.com/Masterpaul562/gamedevteam3">Game Repo</a></p>
-
-<p><img src="https://github.com/user-attachments/assets/8130b81b-2845-40ff-9e15-cf82af3bc646" alt="Example"></p>
-
-</details>
-
-
-<details> 
   <summary>Momentum-Break</summary>
   An unfinished game made in Unity. Created by me and one other person. We went with a beat 'em up style to the game, so its focus is on comboing the enemies and progressing forward through a simple level. I did all of the code for this project. Even though I didn't finish the game I learnt alot form it. I gain experience using Unity, Unity scripting API, and the Unity animator. 
   <br>
@@ -45,6 +34,18 @@ An unfinished individual project created in Unity. Inspired by games like Balatr
 
 
 </details>
+
+
+<details> 
+  <summary>Goblin Survivor</summary>
+An unfinished demo for my game dev 1 class created with a team. Our idea was to create something akin to Vampire Survivor. The gameplay is that different enemies shoot at or chase you, and you have to shoot them back while collecting coins from slain enemies to upgrade your weapons.  We used Processing to create it. My job on the team was coding, I created the enemy and projectile logic but also work on general functionality of the game. I mainly learned Object-oriented programming and how it can be used to create games. 
+  
+<p><a href="https://github.com/Masterpaul562/gamedevteam3">Game Repo</a></p>
+
+<p><img src="https://github.com/user-attachments/assets/8130b81b-2845-40ff-9e15-cf82af3bc646" alt="Example"></p>
+
+</details>
+
 
 <details>
 
